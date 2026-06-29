@@ -22,11 +22,7 @@ $ mvn jetty:run
 
 http://localhost:9000
 ```
-### 说明<br/>
-1. 如果使用该项目出现问题，请联系我 withstars@126.com
-2. 如果该项目对您有帮助,请star鼓励我
-### 下一步:整合MyBatis 个人博客系统<br/>
-*https://github.com/withstars/Blog-System*
+
 ### 本项目截图<br/>
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/1.PNG">
 <img src="https://github.com/ValueStar/Books-Management-System/blob/master/preview/2.PNG">
